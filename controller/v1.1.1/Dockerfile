@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v1.1.1
+FROM registry.k8s.io/ingress-nginx/controller:v1.4.0
 MAINTAINER abc <abc@xyz.com>
